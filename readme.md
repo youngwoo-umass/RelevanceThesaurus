@@ -1,8 +1,8 @@
-This is the implementation for the PaRM model introduced in the EMNLP 2024 paper "Discovering Biases in Information Retrieval Models Using Relevance Thesaurus as Global Explanation".
+This is the implementation for the PaRM model introduced in the EMNLP 2024 paper ["Discovering Biases in Information Retrieval Models Using Relevance Thesaurus as Global Explanation"](https://aclanthology.org/2024.emnlp-main.1089/).
 
 * [Code Descriptions](code_desc.md): This document describes the training pipeline and codes.  
-* If you have any question I will be happy to answer. 
-  * Email: youngwookim@cs.umass.edu
+  * This code is not the best readable or easy to run. However, if you are interested in replicating whole process or understand the details, feel free to ask any questions, and I will be more than happy to answer. 
+  * Email: youngwookim@cs.umass.edu 
 
 
 # Citation
